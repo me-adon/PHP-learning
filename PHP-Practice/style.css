@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    width: 700px;
+    margin: 0 auto;
+    background-color: bisque;
+}
+
+
+
+.header {
+    width: 700px;
+    height: 90px;
+    background-color: dimgray;
+    text-align: center;
+}
+
+.cont {
+    width: 700px;
+    height: 300px;
+    background-color: bisque;
+}
+
+.footer {
+    width: 700px;
+    height: 80px;
+    background-color: dimgray;
+    text-align: center;
+
+}
